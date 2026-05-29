@@ -1,10 +1,4 @@
-# """Mega Program: a 500-line Python utility suite.
 
-# This file contains multiple small interactive tools and games.
-# The goal is to provide a complete, well-structured Python script
-# with strong input validation, clear functions, and a pleasant CLI.
-# """
-# from __future__ import annotations
 
 import argparse
 import random
